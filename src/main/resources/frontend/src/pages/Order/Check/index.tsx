@@ -39,10 +39,6 @@ const OrdChk: React.FC = () => {
   const { RangePicker } = DatePicker;
   const CheckboxGroup = Checkbox.Group;
 
-  useEffect(() => {
-    getData();
-  }, []);
-
   const getData = () => {
     axios
       .post("/api/order/list", {})
@@ -428,6 +424,7 @@ const OrdChk: React.FC = () => {
             className="w-32"
             onClick={() => {
               console.log(getValues());
+              getData();
             }}
           >
             검색
