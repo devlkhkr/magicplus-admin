@@ -1,5 +1,11 @@
 # magicplus-admin
-skmagic magicplus admin system
+<h2>skmagic magicplus admin system</h2>
+
+<div>
+<span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
+<span><a href="https://ko.reactjs.org/"><img src="https://img.shields.io/badge/-React-23F7DF1E?style=for-the-badge&logo=React&logoColor=white&color=61DAFB"></a></span>
+<span><a href="https://spring.io//"><img src="https://img.shields.io/badge/-SpringBoot-23F7DF1E?style=for-the-badge&logo=SpringBoot&logoColor=white&color=6db33fa"></a></span>
+</div>
 
 https://github.com/devlkhkr/magicplus-admin
 
