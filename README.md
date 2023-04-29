@@ -1,4 +1,4 @@
-# skmagic magicplus admin system
+# skmagic magicplus admin system (prototype)
 
 <div>
 <span><a href="https://spring.io//"><img src="https://img.shields.io/badge/-SpringBoot-23F7DF1E?style=for-the-badge&logo=SpringBoot&logoColor=white&color=6db33fa"></a></span>
