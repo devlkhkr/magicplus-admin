@@ -19,4 +19,4 @@ repository: https://github.com/devlkhkr/magicplus-admin
 4. yarn install 명령어를 입력하여 의존 라이브러리를 설치합니다.
 5. yarn build 하여 frontend 프로젝트를 빌드합니다.
 6. 스프링부트 익스텐션탭에서 magicplus 프로젝트를 실행합니다.
-
+7. 로컬서버 8080포트로 실행됩니다.
