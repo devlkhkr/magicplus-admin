@@ -4,7 +4,7 @@ skmagic magicplus admin system
 https://github.com/devlkhkr/magicplus-admin
 
 
-sk매직 매직플러스 관리자 시스템
+sk매직 매직플러스 관리자 시스템 프로토타
 
 - 설치방법
 1. 프로젝트를 클론받습니다.
