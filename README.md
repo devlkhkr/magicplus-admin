@@ -1,5 +1,4 @@
-# magicplus-admin
-<h2>skmagic magicplus admin system</h2>
+# skmagic magicplus admin system
 
 <div>
 <span><a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></a></span>
